@@ -12,8 +12,8 @@ I am a cybersecurity professional working as a Digital Forensics and Incident Re
 - 📫 Reach me on twitter.
 
 \
-![Twitter Follow](https://img.shields.io/twitter/follow/outhex2?color=yellow&style=for-the-badge) \
-![Keybase PGP](https://img.shields.io/keybase/pgp/outhex?style=for-the-badge&color=red&label=Keybase%20PGP)
+[![Twitter Follow](https://img.shields.io/twitter/follow/outhex2?color=yellow&style=for-the-badge)](https://twitter.com/outhex2) \
+[![Keybase PGP](https://img.shields.io/keybase/pgp/outhex?style=for-the-badge&color=red&label=Keybase%20PGP)](https://keybase.io/outhex)
 
 
 <!--
